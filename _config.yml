@@ -1,0 +1,28 @@
+name: Fitness Revolution Roswell
+favicon: null
+layout_spectrum: 0.2793966068420559
+typography_spectrum: 0.2964462502859533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7888844381086528
+  lightness: 0.27581924106925726
+  saturation: 0.23991948924958706
+  rhythmicContrast: 0.024348962819203734
+purpose: []
